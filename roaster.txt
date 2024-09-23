@@ -1,0 +1,19 @@
+<doctype html>
+<head>
+    <title>table</title>
+</head>
+<body>
+    <table>
+	    <tr>
+		   <th>firstname</th>
+		   <th>lastname</th>
+		   <th>age</th>
+		</tr>
+		<tr>
+		   <td>ill</td>
+		   <td>smith</td>
+		   <td>50</td>
+		</tr>
+		<tr>
+		    <td><eve</td>
+			<td>jackson</td>
